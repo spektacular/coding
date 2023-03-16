@@ -1,5 +1,3 @@
-package Gizmo;
-
 public class Gizmo {
     private String maker;
     private boolean isE;
