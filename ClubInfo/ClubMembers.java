@@ -1,5 +1,3 @@
-package ClubInfo;
-
 import java.util.ArrayList;
 
 public class ClubMembers {
