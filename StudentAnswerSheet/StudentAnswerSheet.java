@@ -1,5 +1,3 @@
-package StudentAnswerSheet;
-
 import java.util.ArrayList;
 
 public class StudentAnswerSheet {
