@@ -1,5 +1,3 @@
-package Gizmo;
-
 public class GizmoRunner {
     public static void main(String args[]) {
         Gizmo gz = new Gizmo("sony", true);
