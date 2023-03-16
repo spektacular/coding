@@ -1,5 +1,3 @@
-package ClubInfo;
-
 public class ClubInfoTester {
     public static void main(String[] args) {
         MemberInfo a = new MemberInfo("BOB", 2012, false);
@@ -19,10 +17,3 @@ public class ClubInfoTester {
         System.out.println(cm);
     }
 }
-/*
- * BOB 2012 false
- * [JANE 2015 true, STEVE 2015 true, MICHAEL 2015 true, MARIA 2015 true, BOB
- * 2012 false, APLUS 2020 true, APLUS2 2021 false]
- * [MARIA 2015 true, MICHAEL 2015 true, STEVE 2015 true, JANE 2015 true]
- * [APLUS 2020 true, APLUS2 2021 false]
- */
