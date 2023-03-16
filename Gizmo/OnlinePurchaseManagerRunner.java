@@ -1,5 +1,3 @@
-package Gizmo;
-
 public class OnlinePurchaseManagerRunner {
     public static void main(String args[]) {
         /*
