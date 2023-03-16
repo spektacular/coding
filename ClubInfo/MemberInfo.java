@@ -1,5 +1,3 @@
-package ClubInfo;
-
 public class MemberInfo {
     private String name;
     private int gradYear;
@@ -24,6 +22,6 @@ public class MemberInfo {
     }
 
     public String toString() {
-        return String.format("%s %d %b", this.name, this.gradYear, this.hasGoodStanding);
+        return this.name + " " + this.gradYear + " " + this.hasGoodStanding;
     }
 }
