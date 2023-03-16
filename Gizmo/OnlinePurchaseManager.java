@@ -1,5 +1,3 @@
-package Gizmo;
-
 import java.util.ArrayList;
 
 public class OnlinePurchaseManager {
